@@ -1,6 +1,5 @@
 ---
 title: "qui suis-je"
-permalink: /dig360.github.io/dig.md/
 ---
 
 ## Qui suis-je ?
