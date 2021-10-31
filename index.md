@@ -1,6 +1,7 @@
 ## Welcome to dig360 Pages
 
 Vous vous trouvez sur ma page personnelle de GitHub ! Bienvenue !
+------
 
 Whenever you commit to this repository, GitHub Pages will run [Kshanti](https://kshanti.ch/) to rebuild the pages in your site, from the content in your Markdown files.
 
