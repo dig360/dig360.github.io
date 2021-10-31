@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Qui-suis je ?](di
 
 ### Markdown
 
-Cette [page](maarkup.md) rappelle les mises en page.
+Cette [page](markup.md) rappelle les mises en page.
 
 ------
 
