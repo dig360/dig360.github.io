@@ -3,7 +3,7 @@
 Vous vous trouvez sur ma page personnelle de GitHub ! Bienvenue !
 ------
 
-Whenever you commit to this repository, GitHub Pages will run [Kshanti](https://kshanti.ch/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Qui-suis je ?](dig.md) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
