@@ -1,6 +1,8 @@
+---
 layout: page
 title: "qui suis-je"
 permalink: /URL-PATH/
+---
 
 ## Qui suis-je ?
 
