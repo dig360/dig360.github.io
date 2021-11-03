@@ -1,9 +1,11 @@
-## Page de SPItech.
-# SPatial Information technologies.
+# SPItech.ch
+### SPatial Information technologies.
 
-Vous vous trouvez sur ma page personnelle de GitHub ! Bienvenue !
+Bienvenue !
 
 ------
+
+SPItech est le fruit de plusieurs années d'expérience dans le domaine de la cartographie statistique *geostatistic*.
 
 Whenever you commit to this repository, GitHub Pages will run [Qui-suis je ?](dig.md) to rebuild the pages in your site, from the content in your Markdown files.
 
