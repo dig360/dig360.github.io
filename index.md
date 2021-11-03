@@ -1,4 +1,5 @@
-## Welcome to dig360 Pages
+## Page de SPItech.
+# SPatial Information technologies.
 
 Vous vous trouvez sur ma page personnelle de GitHub ! Bienvenue !
 
