@@ -21,4 +21,4 @@ Faisons connaissance
 
 [Qui-suis je ?](dig.md)
 
-A bientôt
+A bientôt j'espère
