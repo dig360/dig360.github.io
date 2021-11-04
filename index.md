@@ -10,8 +10,15 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 ### Compétences
 
 - Spatial database administration;
-- GPS live tracking;
+- GIS & monitoring;
+- Web mapping;
 - Géostatistique en temps réel;
-- 
+- GPS tracking.
+
+### Portfolio
+
+Faisons connaissance 
 
 [Qui-suis je ?](dig.md)
+
+A bientôt
