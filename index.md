@@ -5,16 +5,13 @@ Bienvenue !
 
 ------
 
-SPItech est le fruit de plusieurs années d'expérience dans le domaine de la cartographie statistique *geostatistic*.
+SPItech est le fruit de plusieurs années d'expérience dans le domaine de la cartographie statistique spatiale ou *geostatistic*.
 
-Whenever you commit to this repository, GitHub Pages will run [Qui-suis je ?](dig.md) to rebuild the pages in your site, from the content in your Markdown files.
+### Compétences
 
-### Markdown
+- Spatial database administration;
+- GPS live tracking;
+- Géostatistique en temps réel;
+- 
 
-Cette [page](markup.md) rappelle les mises en page.
-
-------
-
-#### Et voilà.
-
-Et cette fois on doit voir une ligne de plus ou quoi.
+[Qui-suis je ?](dig.md)
