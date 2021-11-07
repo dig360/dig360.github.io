@@ -21,8 +21,7 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 - Restaurant "[La Courte Paille](https://www.lacourtepaille.ch)";
 - [Audio-concept](https://www.audio-concept.ch) hifi;
 - Orgosound;
-- [Ksanti.ch](https://www.ksanti.ch);
+- [Kshanti.ch](https://www.kshanti.ch);
 
-[Qui-suis je ?](dig.md)
-
-A bientôt j'espère
+[Qui-suis je ?](dig.md) :smile: 
+[Où vais-je ?](dig.md)
