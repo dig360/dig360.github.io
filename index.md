@@ -17,7 +17,11 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 
 ### Portfolio
 
-Faisons connaissance 
+- Paléo Festival Nyon;
+- Restaurant "[La Courte Paille](https://www.lacourtepaille.ch)";
+- [Audio-concept](https://www.audio-concept.ch) hifi;
+- Orgosound;
+- [Ksanti.ch](https://www.ksanti.ch);
 
 [Qui-suis je ?](dig.md)
 
