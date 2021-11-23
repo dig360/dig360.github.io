@@ -28,6 +28,6 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 
 [test du lien](https://drive.infomaniak.com/app/share/102564/25316aeb-cb31-43ae-a933-1bda27a7e6db)
 
-[méditation de pleine conscience](https://drive.infomaniak.com/app/share/102564/4d958725-fdd3-45fa-9c62-675cb39153f9)
+[méditation de l'instant présent](https://drive.infomaniak.com/app/share/102564/4d958725-fdd3-45fa-9c62-675cb39153f9)
 
 
