@@ -32,7 +32,6 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 - Orgosound;
 - [Kshanti.ch](https://www.kshanti.ch);
 
-[Qui-suis je ?](dig.md) :smile: 
-[Où vais-je ?](dig.md)
+[Qui-suis je ?](dig.md)
 
 
