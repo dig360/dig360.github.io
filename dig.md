@@ -5,7 +5,5 @@ Géographe freelance spécialisé dans le monitoring géolocalisé et la cartogr
 
 ----
 
-![semaine](semaine_44.png)
-
 [Retour à l'accueil](index.md)
 

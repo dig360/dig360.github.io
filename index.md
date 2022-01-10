@@ -16,9 +16,17 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 - Géostatistique en temps réel;
 - GPS tracking.
 
-### Portfolio
 
-- Paléo Festival Nyon;
+### Expériences
+
+  Géomatique :
+- Paléo Festival Nyon (depuis 2008);
+- Les Vieilles Charrues (2011);
+- RockEnSeine (2016-2017);
+- SIHH (Cartier);
+- Police Genève (jusqu'en 2014).
+
+  Sites web :
 - Restaurant "[La Courte Paille](https://www.lacourtepaille.ch)";
 - [Audio-concept](https://www.audio-concept.ch) hifi;
 - Orgosound;
@@ -26,9 +34,5 @@ SPItech est le fruit de plusieurs années d'expérience dans le domaine de la ca
 
 [Qui-suis je ?](dig.md) :smile: 
 [Où vais-je ?](dig.md)
-
-[test du lien](https://drive.infomaniak.com/app/share/102564/25316aeb-cb31-43ae-a933-1bda27a7e6db)
-
-[méditation de l'instant présent](https://drive.infomaniak.com/app/share/102564/4d958725-fdd3-45fa-9c62-675cb39153f9)
 
 
